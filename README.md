@@ -7,4 +7,5 @@
 This is a small analysis based project on uber dataset for which I have used uber ride activities data. After performing detailed analysis found some useful insights about data.
 
 Please open **Uber Analysis.ipynb** for more detailed explanation.
-[Click Here To View File](main/Uber-Analysis.ipynb)
+
+[Click Here To View File](https://github.com/AniruddhaMane940/Uber-Analysis/blob/main/Uber%20Analysis.ipynb)
